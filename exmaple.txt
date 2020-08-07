@@ -1,0 +1,6 @@
+
+Este es el segundo proyecto con git y github.
+
+Bienvenidos a todos los que están aprendiendo.
+
+Disfruten de lo que hacen.
